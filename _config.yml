@@ -6,11 +6,11 @@ title:               Hydejack
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
-url:                 https://qwtel.com
+url:                 https://blastak.github.io
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
-baseurl:             /hydejack
+baseurl:             ''
 
 # A very short description of your page
 tagline:             A pretentious two-column Jekyll theme.
@@ -23,12 +23,12 @@ description:         >
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              Ray Kim
+  email:             blastak@naver.com
 
 # Fallback image and color
 image:               /hydejack/assets/img/nap.jpg
-color:               '#4f86aa'
+color:               '#a43838'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 font_heading:        "'Roboto Slab', Helvetica, Arial, sans-serif"
@@ -45,10 +45,10 @@ google_fonts:        Roboto+Slab:700|Noto+Serif:400,400i,700,700i
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-google_analytics:    <UA-XXXXXXXX-X>
+########## google_analytics:    <UA-XXXXXXXX-X>
 
 # Setting a disqus shortname will enable the comment section on pages with `comments: true` in the front matter
-disqus_shortname:    <username>
+########## disqus_shortname:    <username>
 
 # This text will appear in the footer of every page. Markdown enabled.
 copyright:           '&copy; 2017. All rights reserved.'
