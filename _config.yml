@@ -54,7 +54,8 @@ google_fonts:        Roboto+Slab:700|Noto+Serif:400,400i,700,700i
 copyright:           '`blastak` &copy; 2017. All rights reserved.'
 
 # Format of the permalinks
-permalink:           pretty
+#permalink:           pretty
+permalink:           /:title/
 
 # Pagination configuration (used by the `blog` layout)
 paginate:            5
