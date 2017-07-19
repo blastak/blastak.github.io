@@ -31,10 +31,10 @@ image:               /assets/img/nap.jpg
 color:               '#a43838'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
-font_heading:        "'Roboto Slab', Helvetica, Arial, sans-serif"
+font_heading:        "'Roboto Slab', 'Nanum Gothic', Helvetica, Arial, sans-serif"
 
 # The text font. Expects a string that is a valid CSS font-family value.
-font:                "'Noto Serif', Georgia, serif"
+font:                "'Noto Serif', 'Nanum Gothic', Georgia, serif"
 
 # The string encoding what fonts to fetch from Google Fonts.
 # See: https://qwtel.com/hydejack/docs/configuration/
