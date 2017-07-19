@@ -2,7 +2,7 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               Hydejack
+title:               blastak
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
@@ -13,13 +13,13 @@ url:                 https://blastak.github.io
 baseurl:             ''
 
 # A very short description of your page
-tagline:             A pretentious two-column Jekyll theme.
+tagline:             내일뛰지않으려면오늘가야지
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  Open `_config.yml` to edit this text.
+  음악은 내삶. 맘속에 [휘파람](https://www.youtube.com/watch?v=AOeRQcd6ZyM){: target="_blank" }<br />
+  m to the u si c makes me HIGH
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
