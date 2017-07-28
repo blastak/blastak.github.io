@@ -30,10 +30,10 @@ image:               /assets/img/000_Rum_Manhattan_Tequila_Old_Fashioned.jpg
 color:               '#a43838'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
-font_heading:        "'Roboto Slab', Helvetica, Arial, sans-serif"
+font_heading:        "'Roboto Slab', 'Nanum Gothic', Helvetica, Arial, sans-serif"
 
 # The text font. Expects a string that is a valid CSS font-family value.
-font:                "'Noto Sans', Helvetica, Arial, sans-serif"
+font:                "'Noto Sans', 'Nanum Gothic', Helvetica, Arial, sans-serif"
 
 # The string encoding what fonts to fetch from Google Fonts.
 # See: https://qwtel.com/hydejack/docs/configuration/
