@@ -54,7 +54,7 @@ copyright:           '`blastak` &copy; 2017. All rights reserved.'
 
 # Format of the permalinks
 ########## permalink:           pretty
-permalink:           /:title/
+permalink:           none
 
 # Pagination configuration (used by the `blog` layout)
 paginate:            5
