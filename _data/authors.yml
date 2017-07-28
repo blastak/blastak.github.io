@@ -2,17 +2,14 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `qwtel` to your shortname (used in the front matter to set a page's author, e.g. `author: qwtel`).
 qwtel:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              Ray Kim
+  email:             blastak@naver.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-    Open `_data/authors.yml` to edit this text.
+    자기소개 부분 _data/authors.yml
+    여러 문단으로 작성 가능함
 
   # This photo will be used in the about section
   picture:
@@ -26,11 +23,13 @@ qwtel:
   # Comment/uncommet to show/hide
   # Icons appear in order, can be rearranged:
   social:
+    github:          blastak
+    youtube:         UCEu4f87F5xqODeAeRYwCPvQ
+    email:           mailto:blastak@naver.com
     # facebook:        <username>
-    twitter:         <username>
+    # twitter:         <username>
     # google:          <number>
     # vk:              <username>
-    # youtube:         <string_string_string>
     # vimeo:           <username>
     # vine:            <username>
     # spotify:         <user>/<number>
@@ -50,7 +49,6 @@ qwtel:
     # pinterest:       <username>
     # foursquare:      <number>
     # yelp:            <string>
-    github:          <username>
     # stackoverflow:   <number/username>
     # npm:             <username>
     # hackernews:      <username>
@@ -61,8 +59,7 @@ qwtel:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    email:           mailto:<mail@domain.tld>
-    rss:             https://<url>/feed.xml
+    # rss:             https://<url>/feed.xml
 
 # Another author
 mdo:
