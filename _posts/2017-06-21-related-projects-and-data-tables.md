@@ -4,8 +4,6 @@ title: 'Related Projects and Data Tables (v6.4)'
 tags: [hydejack]
 ---
 
-테스트입니다 한글테스트 됩 된 뒙 됢
-
 In this release I've added a "Other Projects" section to the bottom of each project page,
 making it easier for users to navigate through your collection and discover other projects.
 Also, it's now possible to display larger (data-) tables that were previously cut off (especially on mobile devices).
