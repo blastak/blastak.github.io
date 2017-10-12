@@ -43,3 +43,6 @@ node_modules
 .sass-cache
 .jekyll-metadata
 *.gem
+
+# hrkim's customization
+_posts/_*
