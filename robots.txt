@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blastak.github.io/sitemap.xml
