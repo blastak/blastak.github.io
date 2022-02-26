@@ -18,7 +18,7 @@ tagline:             오늘도 생산적인 삽질 중
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  프로삽질러의 Ingot 만들기
+  개발은 삽질의 연속이다. <br>생산적인 삽질 후 Ingot을 남겨본다.
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
